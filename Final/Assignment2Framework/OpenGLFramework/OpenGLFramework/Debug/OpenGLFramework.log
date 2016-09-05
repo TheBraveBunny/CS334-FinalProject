@@ -1,0 +1,58 @@
+﻿Build started 12/6/2015 6:51:19 PM.
+     1>Project "C:\Users\Jemma\Documents\School\CS_334\My Projects\Final\Assignment2Framework\OpenGLFramework\OpenGLFramework\OpenGLFramework.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(40): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(83): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(220): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(237): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(250): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(257): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(269): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(413): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(451): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(452): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(593): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(597): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(602): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(607): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(616): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(619): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(623): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(626): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(629): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(635): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(640): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(648): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(739): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(861): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(866): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(872): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(876): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(879): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(882): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(887): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(890): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(893): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(1074): warning C4129: 'R' : unrecognized character escape sequence
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(1083): warning C4129: 'H' : unrecognized character escape sequence
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(1382): warning C4305: 'argument' : truncation from 'double' to 'GLclampf'
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(1465): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(1478): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(527): warning C4715: 'determineHoldRelationship' : not all control paths return a value
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(632): warning C4715: 'calculateAngleRange' : not all control paths return a value
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(868): warning C4715: 'calculateMidAngleForFoot' : not all control paths return a value
+     1>c:\users\jemma\documents\school\cs_334\my projects\final\assignment2framework\openglframework\openglframework\main.cpp(896): warning C4715: 'calculateAngleRangeForFoot' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jemma\Documents\School\CS_334\My Projects\Final\Assignment2Framework\OpenGLFramework\Debug\OpenGLFramework.exe" /INCREMENTAL /NOLOGO freeglut.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jemma\Documents\School\CS_334\My Projects\Final\Assignment2Framework\OpenGLFramework\Debug\OpenGLFramework.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jemma\Documents\School\CS_334\My Projects\Final\Assignment2Framework\OpenGLFramework\Debug\OpenGLFramework.lib" /MACHINE:X86 Debug\gl_utils.obj
+         Debug\main.obj
+         Debug\math_funcs.obj
+         Debug\obj_parser.obj
+         Debug\stb_image.obj
+         OpenGLFramework.vcxproj -> C:\Users\Jemma\Documents\School\CS_334\My Projects\Final\Assignment2Framework\OpenGLFramework\Debug\OpenGLFramework.exe
+     1>Done Building Project "C:\Users\Jemma\Documents\School\CS_334\My Projects\Final\Assignment2Framework\OpenGLFramework\OpenGLFramework\OpenGLFramework.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.87

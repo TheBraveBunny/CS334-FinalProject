@@ -1,0 +1,25 @@
+Project Implementation Details
+
+- Bump Mapping working
+- Currently adds box texture on individual model when clicked
+	- it's hard to see, but it's there
+	- texture is the box texture from TA examples
+	- lasts for 1000 frames
+- Moves in current frame
+- Multiple bugs supported
+	- can change variable named numOfBugs to have more or less bugs
+- Multiple bug types
+	- sphere is reflected
+	- suzanne is refracted
+- Shows score
+	- 1 pt for sphere
+	- 5 pts for suzanne
+- Rotate plane
+	- counter clockwise
+	- rotate about z-axis before tilting back
+- Game logic
+	- score displayed
+	- clicking suzanne increases speed for all models until deactivated
+- Timer
+	- limit of 60 seconds
+- Camera movement disabled
